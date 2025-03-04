@@ -4,7 +4,7 @@
 Create a virtual environment and activate it. 
 Install required packages
 ```
-pip install requirements.txt 
+pip install -r requirements.txt 
 ```
 Every task is organised as notebooks with explanations (where possible). Task 2 has a readme.md describing the algorithms.
 
