@@ -1,4 +1,8 @@
-# Precog Recruitment Task - Atlas - Report
+Atlas : The classic game where people alternate turns naming places, the next person beginning with their word with the last letter of the latest word from the other person. 
+
+This was an attempt to develop good strategies in the game using network science techniques. 
+
+Also does link prediciton on the graph of countries (where each edge from a to b if b can be said immediately after a in a game of atlas) using Node2Vec approach. 
 
 
 Create a virtual environment and activate it. 
@@ -15,7 +19,6 @@ Contains the Jupyter Notebook analysis. Run it with the env kernel. Maintain the
 
 ### Task 2 
 Contains community_detection.ipynb. The readme.md inside task2 folder has additional notes.
-
 
 ### Task 3 
 Contains a jupyter notebook. Highly encourage running it on google colab. 
